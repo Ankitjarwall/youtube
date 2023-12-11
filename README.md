@@ -1,7 +1,7 @@
 i have create two youtube projects using react and node js. Both project are independent...
 
 <h1>React </h1>
-The code for this is in another repo : https://github.com/Ankitjarwall/youtube-code
+website : https://ankitjarwall.github.io/youtube-code/
 
 <h1>Nodejs</h1>
 the code for nodejs youtube project  is : https://github.com/Ankitjarwall/youtube-nodejs
