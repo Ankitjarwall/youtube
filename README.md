@@ -1,5 +1,3 @@
-i have create two youtube projects using react and node js. Both project are independent...
-
 <h1>React </h1>
 website : https://ankitjarwall.github.io/youtube-code/
 
